@@ -315,8 +315,8 @@ img {
 
 .hero {
   background-color: var(--hero-background);
-  padding-top: 192px;
-  padding-bottom: 192px;
+  padding-top: 188px;
+  padding-bottom: 188px;
   max-width: 1440px;
   margin: 0 auto;
   text-align: center;
