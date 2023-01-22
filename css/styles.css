@@ -375,8 +375,9 @@ img {
   justify-content: center;
   background-color: var(--features-icon-background);
   border-radius: 4px;
-  padding-top: 24px;
-  padding-bottom: 24px;
+  height: 112px;
+  /* padding-top: 24px;
+  padding-bottom: 24px; */
 }
 
 /* .features-icon {
@@ -579,7 +580,7 @@ img {
 }
 
 .pfolio-card-link:is(:hover, :focus) .pfolio-card-content {
-  border: 0.5px solid var(--border-accent-color);
+  /* border: 0.5px solid var(--border-accent-color); */
   box-shadow: var(--pfolio-card-shadow-accent);
 }
 
